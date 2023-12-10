@@ -1,4 +1,4 @@
-Simple funny projects with native JavaScript
+Simple funny projects with native JavaScript.
 
 
 ### Hexlet tests and linter status:
